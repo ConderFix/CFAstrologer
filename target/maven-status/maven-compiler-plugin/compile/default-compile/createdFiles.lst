@@ -1,0 +1,7 @@
+conderfix\cfastrologer\AstrologerPlugin.class
+conderfix\cfastrologer\utils\HexUtil.class
+conderfix\cfastrologer\gui\MenuAstrologer.class
+conderfix\cfastrologer\utils\ConfigUtil.class
+conderfix\cfastrologer\commands\AstrologerCommmand.class
+conderfix\cfastrologer\utils\TypeRarities.class
+conderfix\cfastrologer\utils\Storage.class

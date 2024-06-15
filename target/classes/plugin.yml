@@ -1,0 +1,7 @@
+name: CFAstrologer
+version: '1.0.0'
+main: conderfix.cfastrologer.AstrologerPlugin
+api-version: '1.16'
+authors: [ConderFix]
+commands:
+  astrologer:

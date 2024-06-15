@@ -1,0 +1,57 @@
+inventory:
+  title: '&x&c&c&0&0&0&0&l● &x&f&f&6&6&0&0&lАрхеолог'
+  size: 45
+  decor-material: ORANGE_STAINED_GLASS_PANE
+  decor-name: FunTime.su
+sounds:
+  error: ENTITY_PARROT_IMITATE_CREEPER
+  done: ENTITY_VILLAGER_YES
+positions: # Слоты в которых лежат предмет "item-in-menu"
+  # Слот;количество сдаваемого предмета "exchange-item"
+  item-1: 20;1
+  item-2: 22;5
+  item-3: 24;10
+item-in-menu: # Предмет в меню
+  material: FLINT
+  glow: true
+  name: '&x&0&0&f&f&0&0[Обменять x{size}]'
+  lore:
+    - '&x&f&f&6&6&0&0 ➥ Нажмите, &fчтобы Обменять'
+exchange-item: # Сдаваемый предмет
+  material: FLINT
+  glow: true
+  name: '&x&c&c&0&0&0&0[★] &x&f&f&9&0&0&0Осколок'
+  lore:
+    - ''
+messages:
+  no-buy: '&x&c&c&0&0&0&0[X] Ошибка! &fУ вас нет &x&f&b&f&b&0&0Осколков астероида&f!'
+  done: '&x&0&0&f&f&0&0[Y] Покупка совершена.'
+positions-decor: # Слоты в которох будет лежать декор предметы
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 16
+  - 17
+  - 18
+  - 26
+  - 27
+  - 28
+  - 34
+  - 35
+  - 36
+  - 37
+  - 38
+  - 39
+  - 40
+  - 41
+  - 42
+  - 43
+  - 44
